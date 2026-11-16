@@ -1,0 +1,27 @@
+{
+	"morning": [
+		"Good Morning, <!--username-->!",
+        "Morning, <!--username-->!",
+		"Rise and Shine, <!--username-->!"
+	],
+	"afternoon": [
+		"Good Afternoon, <!--username-->!",
+        "Afternoon, <!--username-->!",
+		"Afternoon greetings, <!--username-->!"
+	],
+	"evening": [
+		"Good Evening, <!--username-->!",
+        "Evening, <!--username-->!",
+		"A fine evening, isn't it, <!--username-->?"
+	],
+	"night": [
+		"It's quite late, what are you up to, <!--username-->?",
+		"The peace of the night gives room to think, doesn't it, <!--username-->?"
+	],
+	"allTime": [
+		"Hello, <!--username-->!",
+		"Hi, <!--username-->!",
+		"What's up, <!--username-->?",
+		"Good to see you, <!--username-->!"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"anon": {
+		"password": "test",
+		"username": "Anon"
+	},
+	"verdun": {
+		"password": "test2",
+		"username": "Verdun"
+	}
+}

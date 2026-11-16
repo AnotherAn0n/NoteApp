@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Pierwsza notatka",
+		"date": "11/11/2026",
+		"content": "To jest moja pierwsza notatka w programie NoteApp!"
+	},
+	{
+		"title": "Druga notatka",
+		"date": "12/11/2026",
+		"content": "To jest moja druga notatka w programie NoteApp!"
+	},
+	{
+		"title": "Trzecia notatka",
+		"date": "12/11/2026",
+		"content": "To jest moja trzecia notatka w programie NoteApp!"
+	},
+	{
+		"title": "Jeszcze jedna notatka",
+		"date": "12/11/2026",
+		"content": "To jest moja następna notatka w programie NoteApp!"
+	}
+]
